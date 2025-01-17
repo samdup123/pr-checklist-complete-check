@@ -1,0 +1,18 @@
+{
+  "name": "pr-checklist-complete-check",
+  "version": "1.0.0",
+  "description": "A GitHub Action for checking if a PR checklist has been completed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@actions/core": "^1.11.1"
+  },
+  "devDependencies": {
+    "@vercel/ncc": "^0.38.3"
+  }
+}
